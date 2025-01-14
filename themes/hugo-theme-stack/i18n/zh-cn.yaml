@@ -59,9 +59,9 @@ search:
     resultTitle:
         other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
 
-footer:
-    builtWith:
-        other: 使用 {{ .Generator }} 构建
+# footer:
+#     builtWith:
+#         other: 使用 {{ .Generator }} 构建
 
-    designedBy:
-        other: 主题 {{ .Theme }} 由 {{ .DesignedBy }} 设计
+#     designedBy:
+#         other: 主题 {{ .Theme }} 由 {{ .DesignedBy }} 设计
